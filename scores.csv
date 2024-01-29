@@ -1,0 +1,6 @@
+Model,Cosine_Similarity,Euclidean_Distance,Manhattan_Distance
+paraphrase-distilroberta-base-v1,0.34515047,7.5559425,161.9478856344455
+stsb-roberta-base,0.19603838,25.826624,558.7132551479468
+paraphrase-distilroberta-base-v2,0.38685498,19.490227,423.83186749652185
+all-roberta-large-v1,0.36266026,1.1289693,28.634116021842146
+gtr-t5-base,0.59228224,0.9024933,20.21238921839237
